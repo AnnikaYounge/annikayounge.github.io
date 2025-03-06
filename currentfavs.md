@@ -13,10 +13,10 @@ permalink: /favorites/
 6. **Narcissus and Goldmund** by Hermann Hesse (– set in medieval and religious contexts, but still felt weirdly pertinent and personal)
 
 ---
-# 🎶 latest albums
+# latest albums
 - **Massive Attack / Mezzanine**
 - **TENDER / FLUX**
 - **Pink Floyd / A Momentary Lapse of Reason**
 
 ---
-_Last updated: {{ site.time | date: "%B %d, %Y" }}_
+updated as of march 2025
