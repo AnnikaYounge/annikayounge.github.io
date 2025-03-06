@@ -3,6 +3,8 @@ layout: page
 title: /about_me
 permalink: /about_me/
 ---
+![Annika Younge](/assets/images/profile_150x200.jpg)
+
 **about me**
 Hi – I'm Annika! I'm a sophomore at Stanford studying **Data Science** and **Economics**. 
 
