@@ -8,5 +8,5 @@ permalink: /
 
 - [about me](about.md)
 - [CV](cv.md)
-- [coursework](coursework.md)
+- [education and coursework](coursework.md)
 - [current favorites](currentfavs.md)
