@@ -1,18 +1,8 @@
 ---
-title: "/cv"
+title: "/experience"
 layout: default
-permalink: /cv/
+permalink: /experience/
 ---
-
-# Annika Younge
-📧 [ayounge@stanford.edu](mailto:ayounge@stanford.edu)  
-🔗 [LinkedIn](https://www.linkedin.com/in/annika-younge)
-
-## Awards
-
-- **Harvard Philosophy Summer Program** – Best Student Paper *(June – July 2022)*
-- **Microsoft Imagine Cup Junior AI for Good** – Winner for EMEA *(July 2020)*
-- **Certificat Supérieur – Conservatoire de Lausanne** *(June 2020)*
 
 ## Work Experience
 
@@ -23,12 +13,6 @@ Investigating alternative solutions to police-only first response to mental heal
 **Établissement Vaudois d'Accueil des Migrants (EVAM)**  
 *Community Organizer* *(Sept. 2020 – June 2023)*  
 Organized integration workshops for immigrants, taught French to families and children, organized Iftar and Ramadan events, assisted with work and study documents for asylum seekers.
-
-## Skills & Other
-
-- **Languages:** English (Fluent), French (Fluent), German (Intermediate)
-- **Programming:** Python, Java, C++, R, MATLAB
-- **Citizenship:** United States & Switzerland
 
 ## Community and Leadership Experience
 
