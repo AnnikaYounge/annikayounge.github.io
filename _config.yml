@@ -11,6 +11,7 @@ header_pages:
   - current_favs.md
 
 style: light
+listen_for_clients_preferred_style: true
 
 footer: 'Contact me at <a href="mailto:ayounge@stanford.edu">ayounge@stanford.edu</a>'
 markdown: kramdown
