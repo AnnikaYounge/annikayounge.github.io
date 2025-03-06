@@ -1,28 +1,20 @@
 ---
-title: /education and coursework
+title: /education
 layout: page
-permalink: /education and coursework
+permalink: /education
 ---
-## Education
+## structured education
+**Stanford University** | *B.S. Economics & B.S. Data Science* | GPA: 4.0 | *Sept. 2023 – Present (Expected 2027)*
 
-**Stanford University**  
-*B.S. Economics & B.S. Data Science | GPA: 4.0*  
-*Sept. 2023 – Present (Expected 2027)*
+**International School of Lausanne** | *Bilingual IB Diploma* | 44/45 points | *Jan. 2019 – June 2023*  
+- Higher Levels: Physics (7, Economics (7), Computer Science (7), Mathematics A&A (7), Standard Levels: English Literature (7), French Literature (6)
+- ***SAT: 1580 (Math: 790, English: 790)***
 
-**International School of Lausanne (ISL)**  
-*Bilingual International Baccalaureate Diploma (44/45 points)*  
-Higher Levels: Physics (7, Economics (7), Computer Science (7), Mathematics A&A (7)
-Standard Levels: English Literature (7), French Literature (6)
-***SAT: 1580 (Math: 790, English: 790)***
-*Jan. 2019 – June 2023*  
+**Conservatoire de Lausanne et Haute École de Musique (HEMU)** | *Dual degree in classical piano and music theory* | *Sept. 2016 – July 2020*
 
-**Conservatoire de Lausanne et Haute École de Musique (HEMU)**  
-*Dual degree in classical piano and music theory*  
-*Sept. 2016 – July 2020*
-
-## Relevant Coursework
-
-**Completed:**
+## coursework
+My coursework draws on information theory, economics, machine learning, statistical inference, philosophy, and most of the social sciences.
+**selection of relevant coursework:**
 - CS 106B – Programming Abstractions (A)
 - Datasci 161 – Causality, Decision Making and Data Science (A+)
 - Econ 102A – Statistics for Social Scientists (A)
