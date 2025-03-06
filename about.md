@@ -1,3 +1,8 @@
+---
+layout: page
+title: /about
+permalink: /about/
+---
 # About me
 Hi! I am a sophomore at Stanford studying Data Science and Economics. 
 
