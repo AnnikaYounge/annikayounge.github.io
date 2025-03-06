@@ -4,7 +4,7 @@ layout: default
 permalink: /experience/
 ---
 
-## Work Experience
+## work experience
 
 **The Stanford Institute of Economic Policy Research (SIEPR)**  
 *Undergraduate Research Fellow* *(Sept. 2024 – Present)*  
@@ -14,7 +14,7 @@ Investigating alternative solutions to police-only first response to mental heal
 *Community Organizer* *(Sept. 2020 – June 2023)*  
 Organized integration workshops for immigrants, taught French to families and children, organized Iftar and Ramadan events, assisted with work and study documents for asylum seekers.
 
-## Community and Leadership Experience
+## community and leadership experience
 
 **Stanford On Call Café**  
 *Head of External Events* *(Sept. 2024 – Present)*  
@@ -37,13 +37,13 @@ Trained for emergency care, led helicopter rescue operations.
 175+ hours on wilderness trails and mountain conservation.
 
 
-## Awards
+## awards
 
 - **Harvard Philosophy Summer Program** – Best Student Paper *(June – July 2022)*
 - **Microsoft Imagine Cup Junior AI for Good** – Winner for EMEA *(July 2020)*
 - **Certificat Supérieur – Conservatoire de Lausanne** *(June 2020)*
 
-## Skills & Other
+## skills & other
 
 - **Languages:** English (Fluent), French (Fluent), German (Intermediate)
 - **Programming:** Python, Java, C++, R, MATLAB
