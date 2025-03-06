@@ -11,4 +11,4 @@ I'm interested in *signal and structure*:
 Some of my current interests include causal inference, inequality, social and economic networks, spatial analysis, and theories of abstraction.
 
 ## in my free time
-I love bird dogs, reading, travel, and being outdoors. see [current_favs](current_favs.md) for assorted thoughts and reads
+I love bird dogs, reading, travel, and being outdoors. see [current_favs](current_favs.md) for assorted thoughts and reads! current diversions include spending time at the rumsey map center with cartographically-inclined friends, looking for new cycling routes, getting back into classical piano, and tinkering with an old film camera.
