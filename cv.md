@@ -5,24 +5,8 @@ permalink: /cv/
 ---
 
 # Annika Younge
-
 📧 [ayounge@stanford.edu](mailto:ayounge@stanford.edu)  
-🔗 [LinkedIn](https://www.linkedin.com/in/annika-younge)  
-
-## Education
-
-**Stanford University**  
-*B.S. Economics & B.S. Data Science | GPA: 4.0*  
-*Sept. 2023 – Present (Expected 2027)*
-
-**International School of Lausanne (ISL)**  
-*Bilingual International Baccalaureate Diploma (44/45 points)*  
-*SAT: 1580 (Math: 790, English: 790)*  
-*Jan. 2019 – June 2023*  
-
-**Conservatoire de Lausanne et Haute École de Musique (HEMU)**  
-*Dual degree in classical piano and music theory*  
-*Sept. 2016 – July 2020*
+🔗 [LinkedIn](https://www.linkedin.com/in/annika-younge)
 
 ## Awards
 
