@@ -7,8 +7,9 @@ url: "https://annikayounge.github.io"
 header_pages:
   - index.md
   - about.md
+  - coursework.md
   - cv.md
-  - contact.md
+  - currentfavs.md
 
 style: dark
 
