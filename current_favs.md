@@ -3,7 +3,8 @@ title: /current_favs
 layout: page
 permalink: /current_favs/
 ---
-Current diversions include spending time at the rumsey map center with cartographically-inclined friends, looking for new cycling routes, and getting back into classical piano.
+Current diverstions include:
+looking for new cycling routes, trying to fix an old camera, getting back into classical piano, spending time at the rumsey map center
 
 **recent reads**
 1. **Shantaram** by Gregory David Roberts
