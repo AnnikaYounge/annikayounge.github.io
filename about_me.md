@@ -3,17 +3,13 @@ layout: page
 title: /about
 permalink: /about/
 ---
-# About me
-Hi! I am a sophomore at Stanford studying Data Science and Economics. 
+# about me
+Hi! I'm sophomore at Stanford pursuing a B.S. in **Data Science** and **Economics**. 
 
-My current interests include causal inference, inequality, social and economic networks, and theories of abstraction.
+I'm interested in **signal and structure**
+> how do we derive meaning from limited or complex data? how do we approach unclear systems of interaction or causality? what consequence does broader structure have on individual behavior and decision-making?
 
-Broadly, I am interested in **signal and structure**:
+My current interests include causal inference, inequality, social and economic networks, and theories of abstraction. Ultimately, I hope to find clear quantitative improvements to the models and methods that we use to approach real-world economic and social issues.
 
-- how do we derive meaning from limited or complex data?
-- how do we approach unclear systems of interaction or causality?
-- what consequence does broader structure have on individual behavior and decision-making? 
-
-My coursework draws on information theory, economics, machine learning, statistical inference, philosophy, and the social sciences at large.
-
-[linkedin](https://www.linkedin.com/in/annika-younge)
+#### in my free time
+I love bird dogs, reading, travel, and being outdoors.
