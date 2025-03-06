@@ -1,7 +1,7 @@
 ---
-title: /annikayounge
+title: /
 layout: home
-permalink: /annikayounge
+permalink: /
 ---
 
 # Annika Younge
