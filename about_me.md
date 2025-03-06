@@ -4,7 +4,7 @@ title: /about_me
 permalink: /about_me/
 ---
 **about me**
-Hi! I'm a sophomore at Stanford studying **Data Science** and **Economics**. 
+Hi – I'm Annika! I'm a sophomore at Stanford studying **Data Science** and **Economics**. 
 
 I'm interested in signal and structure: how do we derive meaning from limited or complex data? how do we approach unclear systems of interaction or causality? how does system structure affect patterns of behavior and decision-making?
 
