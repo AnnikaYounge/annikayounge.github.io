@@ -4,11 +4,14 @@ layout: page
 permalink: /education
 ---
 ## education
-**Stanford University** | *B.S. Economics & B.S. Data Science* | GPA: 4.0 | *Sept. 2023 – Present (Expected 2027)*
-**International School of Lausanne** | *Bilingual IB Diploma* | 44/45 points | *Jan. 2019 – June 2023*
-**Harvard Summer Program in Philosophy** | *Best Student Paper* | *June 2022 - July 2022*
-**Conservatoire de Lausanne et Haute École de Musique (HEMU)** | *Dual degree in classical piano and music theory* | *Sept. 2016 – July 2020*
-- **SAT: 1580 (Math: 790, English: 790)**
+**Stanford University** | *Sept. 2023 – Present (Expected 2027)*
+- *B.S. Data Science, Economics | **GPA: 4.0**
+**International School of Lausanne** | *Jan. 2019 – June 2023*
+- *Bilingual IB Diploma* | 44/45 points
+**Harvard Summer Program in Philosophy** | *June 2022 - July 2022*
+**Conservatoire de Lausanne et Haute École de Musique (HEMU)** | *Sept. 2016 – July 2020*
+- *Dual degree in classical piano and music theory*
+**SAT: 1580 (Math: 790, English: 790)**
 
 ## coursework
 **selection of relevant coursework:**
