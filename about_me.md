@@ -15,3 +15,5 @@ Broadly, I am interested in **signal and structure**:
 - what consequence does broader structure have on individual behavior and decision-making? 
 
 My coursework draws on information theory, economics, machine learning, statistical inference, philosophy, and the social sciences at large.
+
+[linkedin](https://www.linkedin.com/in/annika-younge)
