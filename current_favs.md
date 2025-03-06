@@ -1,7 +1,7 @@
 ---
-title: /current favorites
+title: /current_favs
 layout: page
-permalink: /current favorites/
+permalink: /current_favs/
 ---
 
 # latest reads
