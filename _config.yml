@@ -11,7 +11,7 @@ header_pages:
   - cv.md
   - currentfavs.md
 
-style: dark
+style: light
 
 footer: 'Contact me at <a href="mailto:ayounge@stanford.edu">ayounge@stanford.edu</a> or follow me on <a href="www.linkedin.com/in/annika-younge" target="_blank">linkedin</a>'
 markdown: kramdown
