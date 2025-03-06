@@ -3,8 +3,7 @@ title: /current_favs
 layout: page
 permalink: /current_favs/
 ---
-## current diversions
-spending time at the rumsey map center with cartographically-inclined friends, looking for new cycling routes, getting back into classical piano, planning for a course in mexico city this summer
+*current diversions include:* spending time at the rumsey map center with cartographically-inclined friends, looking for new cycling routes, getting back into classical piano, planning for a course in mexico city this summer
 
 ## recent reads
 as of march 2025
