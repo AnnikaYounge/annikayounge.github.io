@@ -1,7 +1,7 @@
 ---
+title: /current favorites
 layout: page
-title: Current Favorites
-permalink: /favorites/
+permalink: /current favorites/
 ---
 
 # latest reads
@@ -18,5 +18,4 @@ permalink: /favorites/
 - **TENDER / FLUX**
 - **Pink Floyd / A Momentary Lapse of Reason**
 
----
 updated as of march 2025
