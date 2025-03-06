@@ -34,7 +34,7 @@ permalink: /cv/
 
 **The Stanford Institute of Economic Policy Research (SIEPR)**  
 *Undergraduate Research Fellow* *(Sept. 2024 – Present)*  
-Investigating alternative solutions to police-only first response to mental health emergencies. Developed database and engaged with local governments and nonprofits.
+Investigating alternative solutions to police-only first response to mental health emergencies. Developed program database and engaged with local governments and nonprofits.
 
 **Établissement Vaudois d'Accueil des Migrants (EVAM)**  
 *Community Organizer* *(Sept. 2020 – June 2023)*  
