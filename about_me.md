@@ -7,7 +7,7 @@ permalink: /about_me/
 Hi! I'm a sophomore at Stanford studying **Data Science** and **Economics**. 
 
 I'm interested in signal and structure: 
-- > how do we derive meaning from limited or complex data? how do we approach unclear systems of interaction or causality? what consequence does broader structure have on individual behavior and decision-making? 
+- how do we derive meaning from limited or complex data? how do we approach unclear systems of interaction or causality? what consequence does broader structure have on individual behavior and decision-making? 
 Some of my current interests include causal inference, inequality, social and economic networks, spatial analysis, and theories of abstraction.
 
 ## in my free time
