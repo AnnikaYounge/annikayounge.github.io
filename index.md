@@ -7,17 +7,8 @@ permalink: /
 # Annika Younge
 
 ![Annika Younge](/assets/images/profile_150x200.jpg)
-     _________
-    / ======= \
-   / __________\
-  | ___________ |
-  | | -       | |
-  | |         | |
-  | |_________| |________________________
-  \=____________/   annika younge         )
-  / """"""""""" \                       /
- / ::::::::::::: \                  =D-'
-(_________________)
+
+
   - [about_me](about_me.md)  
   - [education](education.md)  
   - [cv](cv.md)
