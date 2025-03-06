@@ -1,7 +1,7 @@
 ---
 layout: page
-title: /about
-permalink: /about/
+title: /about_me
+permalink: /about_me/
 ---
 # about me
 Hi! I'm sophomore at Stanford pursuing a B.S. in **Data Science** and **Economics**. 
