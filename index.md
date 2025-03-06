@@ -11,7 +11,8 @@ permalink: /
   <div>
     - [about me](about.md)  
     - [CV](cv.md)  
-    - [education](education)  
+    - [education](education.md)  
+    - [experience](experience.md)
     - [currentfavs](currentfavs.md)
   </div>
 </div>
