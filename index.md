@@ -14,3 +14,5 @@ permalink: /
   - [education](education.md)  
   - [cv](cv.md)
   - [current_favs](current_favs.md)
+
+_Last updated: {{ site.time | date: "%B %d, %Y" }}_
