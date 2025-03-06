@@ -5,7 +5,6 @@ permalink: /
 ---
 
 # Annika Younge
-<br>
 
 ![Annika Younge](/assets/images/profile_150x200.jpg)
 
