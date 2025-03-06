@@ -13,5 +13,6 @@ header_pages:
 
 style: light
 
-footer: 'Contact me at <a href="mailto:ayounge@stanford.edu">ayounge@stanford.edu</a> or follow me on <a href="www.linkedin.com/in/annika-younge" target="_blank">linkedin</a>'
+footer: 'Contact me at <a href="mailto:ayounge@stanford.edu">ayounge@stanford.edu</a> or follow me on [linkedin](https://www.linkedin.com/in/annika-younge)
+'
 markdown: kramdown
