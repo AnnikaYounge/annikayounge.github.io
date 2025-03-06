@@ -6,13 +6,12 @@ url: "https://annikayounge.github.io"
 
 header_pages:
   - index.md
-  - about.md
-  - coursework.md
-  - cv.md
-  - currentfavs.md
+  - about_me.md
+  - education.md
+  - experience.md
+  - current_favs.md
 
 style: light
 
-footer: 'Contact me at <a href="mailto:ayounge@stanford.edu">ayounge@stanford.edu</a> or follow me on [linkedin](https://www.linkedin.com/in/annika-younge)
-'
+footer: 'Contact me at <a href="mailto:ayounge@stanford.edu">ayounge@stanford.edu</a>'
 markdown: kramdown
