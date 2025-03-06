@@ -8,7 +8,7 @@ header_pages:
   - index.md
   - about_me.md
   - education.md
-  - experience.md
+  - cv.md
   - current_favs.md
 
 style: light
