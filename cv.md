@@ -3,7 +3,7 @@ title: "/cv"
 layout: default
 permalink: /cv/
 ---
-For a copy of my CV, you can reach me at my email or [linkedin](https://www.linkedin.com/in/annika-younge).
+For a copy of my CV, reach out to my email or [linkedin](https://www.linkedin.com/in/annika-younge)!
 
 highlights:
 ## awards
