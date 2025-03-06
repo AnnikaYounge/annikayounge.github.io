@@ -2,3 +2,15 @@ remote_theme: b2a3e8/jekyll-theme-console
 title: "Annika Younge"
 description: "about me"
 author: "Annika Younge"
+url: "https://annikayounge.github.io"
+
+header_pages:
+  - index.md
+  - about.md
+  - cv.md
+  - contact.md
+
+style: dark
+
+footer: 'Contact me at <a href="mailto:ayounge@stanford.edu">ayounge@stanford.edu</a> or follow me on <a href="www.linkedin.com/in/annika-younge" target="_blank">linkedin</a>'
+markdown: kramdown
