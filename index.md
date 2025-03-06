@@ -6,7 +6,7 @@ permalink: /
 
 # Annika Younge
 
-![Annika Younge](/assets/images/profile.jpg){: style="width: 100px; border-radius: 50%;" }
+![Annika Younge](/assets/images/profile_200x267.jpg)
 
   - [about_me](about_me.md)  
   - [education](education.md)  
