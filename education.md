@@ -25,9 +25,7 @@ permalink: /education
 - Stats 117 – Probability Theory (A+)
 - Stats 118 – Probability Theory for Causal Inference (A)
 - Symsys 1 – Symbolic Systems (A+)
-- + IB Physics, Computer Science, Economics, and Mathematics (7s in all, 4 Higher Levels)
-
-*spring 2025*
-- Econ 272 – Methods for Applied Econometrics *(Ph.D. econometrics core)*
-- Econ 125 – Economic Development, Microfinance, and Social Networks
-- Physics 113 – Computational Physics
+- Econ 272 – Methods for Applied Econometrics *(Ph.D. econometrics core)* (spring 2025)
+- Econ 125 – Economic Development, Microfinance, and Social Networks (spring 2025)
+- Physics 113 – Computational Physics (spring 2025)
+- + IB HL Physics, Computer Science, Economics, and Mathematics (7s)
