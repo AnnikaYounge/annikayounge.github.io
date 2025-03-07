@@ -3,7 +3,7 @@ layout: page
 title: /about_me
 permalink: /about_me/
 ---
-![Annika Younge](/assets/images/profile_150x200.jpg)
+![Annika Younge](/assets/images/profile_150x150.jpg)
 
 **about me**
 Hi – I'm Annika! I'm a sophomore at Stanford studying *Data Science* and *Economics*. Some of my current interests include causal inference, inequality, social and economic networks, spatial analysis, and theories of abstraction.
