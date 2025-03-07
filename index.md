@@ -1,6 +1,6 @@
 ---
 title: /AnnikaYounge
-layout: home
+layout: page
 permalink: /AnnikaYounge
 ---
 
