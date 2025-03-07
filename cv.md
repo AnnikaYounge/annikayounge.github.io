@@ -5,8 +5,6 @@ permalink: /cv/
 ---
 For a copy of my CV, reach out to my [email](mailto:ayounge@stanford.edu) or [linkedin](https://www.linkedin.com/in/annika-younge)
 
-highlights:
-
 ## awards
 - Harvard Philosophy Summer Program – Best Student Paper *(June – July 2022)*
 - Microsoft Imagine Cup Junior AI for Good – Winner for EMEA *(July 2020)*
