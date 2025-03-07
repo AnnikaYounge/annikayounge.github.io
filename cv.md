@@ -3,7 +3,7 @@ title: "/cv"
 layout: default
 permalink: /cv/
 ---
-For a copy of my CV, reach out to my [email](mailto:ayounge@stanford.edu) or [linkedin](https://www.linkedin.com/in/annika-younge)
+For a copy of my CV, reach out to my [email](mailto:ayounge@stanford.edu) or [linkedin](https://www.linkedin.com/in/annika-younge).
 
 ## awards
 - Harvard Philosophy Summer Program – Best Student Paper *(June – July 2022)*
