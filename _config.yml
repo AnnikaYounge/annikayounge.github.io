@@ -14,5 +14,5 @@ header_pages:
 style: "light"
 listen_for_clients_preferred_style: true
 
-footer: 'Contact me at <a href="mailto:ayounge@stanford.edu">ayounge@stanford.edu</a>'
+footer: 'Contact me at ayounge[at]stanford[dot]edu'
 markdown: "kramdown"
