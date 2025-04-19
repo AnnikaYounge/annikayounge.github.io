@@ -8,7 +8,6 @@ permalink: /education
 - *International School of Lausanne*, Bilingual IB Diploma, *44/45 pts*, *2019–2023*
 - *Harvard Summer Program in Philosophy*, *2022*
 - *Conservatoire de Lausanne et Haute École de Musique (HEMU)*, Dual degree in classical piano and music theory, *2016-2020*
-
 - *SAT: 1580 (Math: 790, English: 790)*
 - IB Higher Levels: Physics (7), Computer Science (7), Economics (7), Mathematics (7)
 
