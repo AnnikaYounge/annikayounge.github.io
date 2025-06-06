@@ -5,7 +5,7 @@ permalink: /
 ---
 
 # Annika Younge 
-B.S. Economics & Data Science @ Stanford
+B.S. Mathematical and Model Engineering @ Stanford
   - [about_me](about_me.md)  
   - [education](education.md)  
   - [cv](cv.md)
