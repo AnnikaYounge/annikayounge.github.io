@@ -11,7 +11,8 @@ For a copy of my CV, reach out to my [email](mailto:ayounge@stanford.edu) or [li
 - Certificat Supérieur – Conservatoire de Lausanne *(June 2020)*
 
 ## work experience
-- The Stanford Institute of Economic Policy Research (SIEPR) – *Undergraduate Research Fellow* *(Sept. 2024 – Present)*
+- Stanford Department of Economics – *Undergraduate Researcher* *(April 2025 – present)*
+- The Stanford Institute of Economic Policy Research (SIEPR) – *Undergraduate Research Fellow* *(Sept. 2024 – April 2025)*
 - Établissement Vaudois d'Accueil des Migrants (EVAM Refugee Center) – *Community Organizer* *(Sept. 2020 – June 2023)*
 
 ## community and leadership experience
