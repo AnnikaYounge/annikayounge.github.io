@@ -3,10 +3,16 @@ layout: page
 title: /about_me
 permalink: /about_me/
 ---
-![Annika Younge](/assets/images/profile_150x150.jpg)
-
 **about me**
-Hi – I'm Annika! I'm a sophomore at Stanford studying *Mathematical and Model Engineering*. I'm interested in causal inference, inequality, dynamics of information, machine learning, social and economic networks, model discovery, and model uncertainty. I plan to work on evidence-based approaches to human welfare and well-being.
+I'm a rising junior at Stanford studying *Mathematical and Model Engineering* with a secondary major in *Economics* and a minor in *Philosophy*. I'm interested in causal inference, inequality, dynamics of belief, structured discovery, machine learning, social and economic networks, and model uncertainty. 
 
-**in my free time**
-I love being outdoors, reading, traveling, joining talks on campus, and hiking with my dogs. See [current_favs](current_favs.md) for assorted thoughts and reads! Recent diversions include trying new cycling routes, getting back into piano, and exchanging postcards with friends.
+I'm currently focused on research, art and reading groups, and humanitarian work. See [current_favs](current_favs.md) for assorted thoughts and reads!
+
+**featured projects**
+* robust experimental design and adaptive methods with high-dimensional partition sets
+* causality of pediatric training and hospital systems strengthening in Liberia, Tigray, Jordan, and Gaza
+* arts and writing group (spatial organization, time and imagination, cartography, epistemics of abstraction and design)
+* dynamics of belief and information: skepticism, persuasion, and optimal information disclosure
+* structured collaboration with AI for hypothesis generation and model discovery
+* adaptive decision-making for optimal health provision in emergency settings
+* a networks approach to temporary migration and risk-sharing
