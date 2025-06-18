@@ -16,4 +16,4 @@ I'm currently focused on research, art and reading groups, and humanitarian work
 * dynamics of belief and information: skepticism, persuasion, and optimal information disclosure
 * structured collaboration with AI for hypothesis generation and model discovery
 * adaptive decision-making for optimal health provision in emergency settings
-* a networks approach to temporary migration and risk-sharing
+* labor mobility and a networks perspective on temporary migration and risk-sharing
