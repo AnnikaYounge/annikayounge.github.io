@@ -5,14 +5,14 @@ permalink: /about_me/
 ---
 **about me**
 
-I'm a rising junior at Stanford in *B.S. Mathematical and Model Engineering*. I'm interested in causal inference, inequality, dynamics of belief, machine learning, social and economic networks, and model uncertainty.
+I'm a rising junior at Stanford in *B.S. Mathematical and Model Engineering* and secondary major *B.S. Economics*. I'm interested in causal inference, inequality, dynamics of belief, machine learning, social and economic networks, and model uncertainty.
 
-I'm currently focused on research, art and reading groups, and humanitarian work. See [current_favs](current_favs.md) for assorted thoughts and reads!
+I'm currently focused on research, reading groups, and humanitarian and global health work. See [current_favs](current_favs.md) for assorted thoughts and reads!
 
 **featured projects**
+* Learning and dynamics of belief under model uncertainty
 * Causality in pediatric training and hospital systems strengthening
-* Arts and writing group (cartography, time and imagination, epistemics of abstraction and design)
-* Structured collaboration for hypothesis generation and model discovery
-* Adaptive decision-making for optimal health provision in emergency settings
-* term paper: A Networks Perspective on Temporary Migration and Risk-Sharing
-* term paper: Possible Worlds: Learning and Dynamics of Belief under Model Uncertainty
+* Reading group (cartography, spatial analysis, time and imagination, epistemics of abstraction and design)
+* Skepticism in social learning and implications for political polarization, inequality, and persuasion
+* A networks perspective on temporary migration and risk-sharing
+* Structured collaboration with AI for hypothesis generation and model discovery
