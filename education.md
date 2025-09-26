@@ -21,9 +21,12 @@ permalink: /education
 - Econ 291 – Social and Economic Networks (A+)
 - Econ 271 – Intermediate Econometrics II (A-) *(Ph.D. econometrics core)*
 - Econ 272 – Intermediate Econometrics III: Methods for Applied Econometrics (A) *(Ph.D. econometrics core)*
+- EE 283 – Markov Decision Processes (in progress)
 - Math 51 – Linear Algebra and Multivariable Calculus (A-)
 - Math 104 – Applied Matrix Theory (A)
 - Math 115 – Real Analysis (B+)
+- Math 136 – Stochastic Processes (in progress)
+- MS&E 319 – Matching Theory (in progress)
 - Soc 341 – Inequality Workshop (S)
 - Stats 117 – Probability Theory (A+)
 - Stats 118 – Probability Theory for Causal Inference (A)
