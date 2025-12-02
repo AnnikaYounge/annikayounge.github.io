@@ -4,7 +4,7 @@ layout: page
 permalink: /education
 ---
 ## education
-- *Stanford University*, B.S. Mathematical and Model Engineering, *GPA: 4.0*, *ongoing*
+- *Stanford University*, B.S. Mathematical and Model Engineering, *GPA: 3.97*, *ongoing*
 - *International School of Lausanne*, Bilingual IB Diploma, *44/45 pts*, *2019–2023*
 - *Harvard Summer Program in Philosophy*, *2022*
 - *Conservatoire de Lausanne et Haute École de Musique (HEMU)*, Dual degree in classical piano and music theory, *2016-2020*
