@@ -7,7 +7,7 @@ permalink: /current_favs/
 1. **Flatland** by Edwin A. Abbott
 2. **The Glass Bead Game** by Hermann Hesse *(such a subtle, profound, and compassionate book!)*
 3. **Gitanjali** by Rabindranath Tagore
-4. **Galatea 2.2** by Richard Powers *(I've only read his 90s work, so I get to be bitter and pretentious about his deserved popularity post-Overstory))*
+4. **Galatea 2.2** by Richard Powers *(I've only read his 90s work, so I get to be upset at his deserved popularity post-Overstory))*
 5. **In a Grove** by Ryūnosuke Akutagawa *(onboarding for rashomon)*
 
 ## archived lists
