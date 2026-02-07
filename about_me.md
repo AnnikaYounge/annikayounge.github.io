@@ -5,7 +5,7 @@ permalink: /about_me/
 ---
 **about me**
 
-I'm a junior at Stanford in *B.S. Mathematical and Model Engineering* and secondary major *B.S. Economics*. I'm interested in causal inference, inequality, dynamics of belief, machine learning, social and economic networks, and model uncertainty.
+I'm graduating from Stanford with a *B.S. Mathematical and Model Engineering* and secondary major *B.S. Economics*. I'm interested in causal inference, inequality, dynamics of belief, machine learning, social and economic networks, and model uncertainty.
 
 I'm currently focused on research, reading groups, and humanitarian and global health work. See [current_favs](current_favs.md) for assorted thoughts and reads!
 
