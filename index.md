@@ -6,8 +6,7 @@ permalink: /
 
 # Annika Younge 
 B.S. Mathematical and Model Engineering @ Stanford
-
----> and incoming Ph.D. Management Science and Engineering @ Stanford in fall 2026
+---incoming Ph.D. Management Science and Engineering @ Stanford in fall 2026
 
   - [about_me](about_me.md)  
   - [education](education.md)  
