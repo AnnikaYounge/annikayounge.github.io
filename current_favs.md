@@ -3,14 +3,20 @@ title: /current_favs
 layout: page
 permalink: /current_favs/
 ---
-## recent favorites (as of 2025.11)
-1. **Flatland** by Edwin A. Abbott
-2. **The Glass Bead Game** by Hermann Hesse *(such a subtle, profound, and compassionate book!)*
-3. **Gitanjali** by Rabindranath Tagore
-4. **Galatea 2.2** by Richard Powers *(I've only read his 90s work, so I get to be upset at his deserved popularity post-Overstory))*
-5. **In a Grove** by Ryūnosuke Akutagawa *(onboarding for rashomon)*
+## recent favorites (as of 2026.5)
+1. **Vineland** by Thomas Pynchon
+2. **The Optimist's Daughter** by Eudora Welty
+3. **Labyrinths** by Jorge Luis Borges
+4. **Naked** by David Sedaris
 
 ## archived lists
+### as of 2025.11
+1. *Flatland* by Edwin A. Abbott
+2. *The Glass Bead Game* by Hermann Hesse 
+3. *Gitanjali** by Rabindranath Tagore
+4. *Galatea 2.2* by Richard Powers
+5. *In a Grove* by Ryūnosuke Akutagawa *(onboarding for rashomon)*
+
 ### as of 2025.08
 1. *All My Sons* by Arthur Miller
 2. *The Portrait of the Artist as a Young Man* by James Joyce *(affecting - and readable(!))*
@@ -27,13 +33,6 @@ permalink: /current_favs/
 2. *Waiting for Godot* by Samuel Beckett *(uneventful)*
 3. *Narcissus and Goldmund* by Hermann Hesse
 4. *The Complete Cosmicomics* by Italo Calvino *(especially A Sign in Space, only 10 pgs)*
-5. *The Days Are Just Packed: Calvin and Hobbes #8* by Bill Watterson *(remains my favorite book of all time)*
-6. *Angle of Repose* by Wallace Stegner *(arguably, and I do argue, the best pulitzer alongside confederacy of dunces and the shipping news)*
+5. *The Days Are Just Packed: Calvin and Hobbes #8* by Bill Watterson *(best book of all time)*
+6. *Angle of Repose* by Wallace Stegner *(my favorite pulitzer alongside confederacy of dunces and the shipping news)*
 7. *Underworld* by Don Delillo
-
-## recent albums
-1. A Momentary Lapse of Reason, Pink Floyd
-2. 12 Études, Chopin *– especially op. 25 no.2*
-3. Hyper Romance, Jadu Heart
-4. Fountain Baby, Amaarae
-6. Creatures of Habit, Kiltro
